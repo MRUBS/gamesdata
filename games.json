@@ -1,0 +1,374 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "category": "offer",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 2,
+      "category": "offer",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 3,
+      "category": "offer",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 4,
+      "category": "slot",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 5,
+      "category": "slot",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 6,
+      "category": "casino",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 7,
+      "category": "casino",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 8,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 9,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 10,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 11,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 12,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 13,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 14,
+      "category": "casino",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 15,
+      "category": "casino",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 16,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 17,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 18,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 19,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 20,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 21,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 22,
+      "category": "casino",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 23,
+      "category": "casino",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 24,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 25,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 26,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 27,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 28,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 29,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 30,
+      "category": "casino",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 31,
+      "category": "casino",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 32,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 33,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 34,
+      "category": "sports",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 35,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 36,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "Long term",
+      "details": "here will be game details with popup"
+    },
+    {
+      "id": 37,
+      "category": "table",
+      "image": "@/assets/images/games/Rectangle-363.png",
+      "title": "$10,000 Premium Cashback",
+      "subtitleIcon": "@/assets/images/Game-Offer.png",
+      "subtitle": "Welcome Offer",
+      "offerTimeLimits": "End in 5 days",
+      "details": "here will be game details with popup"
+    }
+  ]
+}
